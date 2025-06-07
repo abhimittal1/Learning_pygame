@@ -16,10 +16,10 @@ This project marks my **first step into Game Development**, created to learn the
 
 ## 📸 Screenshots
 
-```markdown
+
 ![Gameplay Screenshot](media/SS2.jpg)
 ![Gameplay Screenshot](media/SS1.jpg)
-```
+
 
 ## 🕹️ How to Play
 
